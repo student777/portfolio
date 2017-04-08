@@ -1,0 +1,18 @@
+body{
+	background-color: #F8F8F8 ;
+}
+.row{
+	background-color: #FFFFFF;
+	padding: 15px;
+}
+.row > h1{
+    color: #F39800;
+}
+.jumbotron{
+	background-color: #F39800;
+	color: #FFFFFF !important;
+}
+.jumbotron a{
+    text-decoration: none;
+    color:#FFFFFF
+}
